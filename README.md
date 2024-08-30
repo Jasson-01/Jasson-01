@@ -11,10 +11,11 @@ I am a Computer Science student, passionate about technology. I am committed to 
 
 <!-- <img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /> -->
 🔍   Exploring new web technologies. <br/>
-💼   I’m currently working on Full Stack Development projects. <br/>
+🎓   Studying Computer Science. <br/>
 🎯   Learning more about Backend and Frontend Developement. <br/>
 🎉   My hobbies are sports in general, anime, soccer and programming. <br/>
- <!--🎓   Studying Information Systems Engineering. -->
+ <!--💼   I’m currently working on Full Stack Development projects. <br/> -->
+ 
 <br/>
 <br/>
 <br/>
@@ -23,20 +24,23 @@ I am a Computer Science student, passionate about technology. I am committed to 
 
 # 💻 Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> 
 <p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtoazlnanJ6Nmd5ZWFkODJwcGYyamQ0MnJyZ2N3cDlvN2xuenkyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdsd25kZjl3cjh3c3hjM2ZhcXo2ZzViZzNkdmh0M2c3MW5zbmtrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+   <img src="https://cdn.iconscout.com/icon/free/png-512/free-haskell-3628827-3030104.png?f=webp&w=100">
+   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
    <br><br>
 </p>
 
 
 # Connect With Me <a target="_blank"> <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;"> </a>
 
-  <a href="https://instagram.com/ferdi.ozer"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ferdiozer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/json_db/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
+<!--  <a href="https://linkedin.com/in/ferdiozer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 <br>
 <br>
 
