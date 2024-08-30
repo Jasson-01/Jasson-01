@@ -3,11 +3,13 @@
 
 <div><img src="https://readme-typing-svg.herokuapp.com?color=3565bfsize=27&center=false&vCenter=false&width=600&height=50&lines=Computer+Science+Student;;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" /></div>
 
+I am a Computer Science student, passionate about technology. I am committed to continuous learning and seek opportunities to apply my knowledge, contributing to the creation of innovative technological solutions.
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+   <img align="right" height="250" width="300" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+<!-- <img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /> -->
 🔍   Exploring new web technologies. <br/>
 💼   I’m currently working on Full Stack Development projects. <br/>
 🎯   Learning more about Backend and Frontend Developement. <br/>
@@ -19,7 +21,7 @@
 
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> 
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
