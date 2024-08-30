@@ -9,6 +9,8 @@ I am a Computer Science student, passionate about technology. I am committed to 
 
    <img align="right" height="250" width="300" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+<br>
+<br>
 <!-- <img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /> -->
 🔍   Exploring new web technologies. <br/>
 🎓   Studying Computer Science. <br/>
