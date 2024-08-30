@@ -5,7 +5,7 @@
 
 I am a Computer Science student, passionate about technology. I am committed to continuous learning and seek opportunities to apply my knowledge, contributing to the creation of innovative technological solutions.
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> About me
 
    <img align="right" height="250" width="300" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -36,8 +36,6 @@ I am a Computer Science student, passionate about technology. I am committed to 
    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
    <br><br>
 </p>
-<br>
-<br>
 
 # Connect With Me <a target="_blank"> <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;"> </a>
 
