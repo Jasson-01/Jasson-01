@@ -3,7 +3,7 @@
 
 <div><img src="https://readme-typing-svg.herokuapp.com?color=3565bfsize=27&center=false&vCenter=false&width=600&height=50&lines=Computer+Science+Student;;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" /></div>
 
-I am a Computer Science student, passionate about technology. I am committed to continuous learning and seek opportunities to apply my knowledge, contributing to the creation of innovative technological solutions.
+<p style="font-size: 40px;">I am a Computer Science student, passionate about technology. I am committed to continuous learning and seek opportunities to apply my knowledge, contributing to the creation of innovative technological solutions.</p>
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> About me
 
@@ -12,10 +12,10 @@ I am a Computer Science student, passionate about technology. I am committed to 
 <br>
 <br>
 <!-- <img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /> -->
-🔍   Exploring new web technologies. <br/>
-🎓   Studying Computer Science. <br/>
-🎯   Learning more about Backend and Frontend Developement. <br/>
-🎉   My hobbies are sports in general, anime, soccer and programming. <br/>
+<p style="font-size: 20px;"> 🔍  Exploring new web technologies.</p>
+<p style="font-size: 20px;"> 🎓  Studying Computer Science. </p>
+<p style="font-size: 20px;"> 🎯  Learning more about Backend and Frontend Developement.</p> 
+<p style="font-size: 20px;"> 🎉  My hobbies are sports in general, anime, soccer and programming.</p> <br/>
  <!--💼   I’m currently working on Full Stack Development projects. <br/> -->
  
 <br/>
@@ -42,8 +42,9 @@ I am a Computer Science student, passionate about technology. I am committed to 
 
 <div align="center">
   <img alt="Fogata" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="150" > <img alt="Fogata" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="150" > <img alt="Fogata" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="150" >
-</div>
-   
+</div><br>
+
+<div align="center">   
    <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://x.com/jason_DB6"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -51,6 +52,7 @@ I am a Computer Science student, passionate about technology. I am committed to 
    <a href="https://www.instagram.com/json_db/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
    <a href="https://gitlab.com/Json01"><img src="	https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 <!--  <a href="https://linkedin.com/in/ferdiozer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
+</div>
 
   
 <!--
