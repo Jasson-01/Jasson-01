@@ -13,7 +13,7 @@
 <br>
 <!-- <img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /> -->
 <p style="font-size: 20px;"> 🔍  Exploring new web technologies.</p>
-<p style="font-size: 20px;"> 🎓  I'm pursuing a Master of Science degree in Computer Science at UBA. </p>
+<p style="font-size: 20px;"> 🎓  I'm pursuing a Master of Science degree in Computer Science at Universidad de Buenos Aires. </p>
 <p style="font-size: 20px;"> 🎯  Learning more about Backend and Frontend Developement.</p> 
 <p style="font-size: 20px;"> 🎉  My hobbies are sports in general, anime, soccer and programming.</p> <br/>
  <!--💼   I’m currently working on Full Stack Development projects. <br/> -->
