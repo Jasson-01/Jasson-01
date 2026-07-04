@@ -62,7 +62,7 @@ I'm a **Computer Science student** at *Universidad de Buenos Aires*, passionate 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jasson-01&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<img width="190" height="260" alt="image" src="https://github.com/user-attachments/assets/e8e692fd-3cf6-4005-a8ab-913a43a7695b" />
+[<img width="190" height="260" alt="image" src="https://github.com/user-attachments/assets/e8e692fd-3cf6-4005-a8ab-913a43a7695b" />](https://gitfut.com/Jasson-01)
 
 
 </div>
