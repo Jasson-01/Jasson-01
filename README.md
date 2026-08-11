@@ -10,7 +10,7 @@
 
 I'm a **Computer Science student** at *Universidad de Buenos Aires*, passionate about building clean, scalable software. I enjoy exploring new technologies across the full stack and contributing to projects that solve real problems.
 
-- 🎓 Pursuing an **M.Sc. in Computer Science** at UBA
+- 🎓 Pursuing an **M.Sc. in Computer Science** at University of Buenos Aires (UBA)
 - 🌱 Currently deepening my skills in **Backend & Frontend Development**
 - 🔍 Interested in **distributed systems**, **web technologies**, and **functional programming**
 - ⚽ Outside of code: soccer, anime, and sports in general
