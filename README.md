@@ -59,9 +59,9 @@ I'm a **Computer Science student** at *Universidad de Buenos Aires*, passionate 
 ![Jasson's GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=Jasson-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Jasson-01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
+<!-- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jasson-01&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+-->
 [<img width="190" height="260" alt="image" src="https://github.com/user-attachments/assets/e8e692fd-3cf6-4005-a8ab-913a43a7695b" />](https://gitfut.com/Jasson-01)
 
 
